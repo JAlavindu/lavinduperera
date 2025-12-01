@@ -8,97 +8,116 @@
 
 ---
 
-## 🚀 About Me
-- 🧠 Full-stack developer exploring **AI, ML, and Cloud computing**
-- 🌐 Building advanced **AI SaaS products**, ML pipelines, and full-stack systems  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Learner;Tech+Innovator+%7C+SaaS+Builder" />
+</p>
+
+---
+
+## 🚀 About Me  
+
+- 🧠 Full-stack developer exploring **AI, ML, and Cloud computing**  
+- 📌 Building advanced **AI SaaS products**, ML pipelines, and full-stack systems  
 - 🔭 Currently working on:  
-  - **AI PDF Chat SaaS**  
-  - **Real-time food marketplace SaveFresh**  
-  - **ML-based medical survival analysis**  
-- 🌱 Learning **Spring Boot**, **Distributed Systems**, **Vector Databases**, and **Cloud**  
+  - ⚡ **AI PDF Chat SaaS**  
+  - 🍽 **SaveFresh Food Marketplace**  
+  - 🧬 **ML survival prediction models**  
+- 🌱 Learning **Spring Boot**, **Distributed Systems**, **Vector DBs**, **Cloud**  
 - 🎓 Undergraduate in Mathematics, Physics & ICT  
-- 🎯 Aspiration: **High-paying SWE role or Tech founder**  
-- ⚡ Fun fact: My best ideas come alive at 2 AM with headphones + coffee ☕✨  
+- 🎯 Goal: **High-paying SWE role or Tech startup founder**  
+- 🎵 Code stack: music + coffee + midnight productivity ☕🎧  
 
 ---
 
 ## 🚀 Cutting-Edge Projects  
 
 ### 🧠 **Chat with PDF – AI SaaS Platform**
-**Next.js | Pinecone | OpenAI GPT | Stripe | TypeScript | Tailwind**
-- Upload PDFs → Ask questions → Get context-aware answers  
-- Vector embeddings (Pinecone) + semantic search  
-- Subscription payments via Stripe  
-- Clean UI, optimized for performance  
+**Next.js | Pinecone | OpenAI | Stripe | TypeScript**
+- Upload PDFs → get context-aware answers  
+- Vector embeddings with Pinecone  
+- Subscription payments with Stripe  
+- Clean and modern UI  
 
 ---
 
 ### 🍽️ **SaveFresh – Discounted Leftover Food Marketplace**
-**Next.js | Redux Toolkit | Supabase | Tailwind | TypeScript**
-- Marketplace for restaurants/supermarkets to sell leftover food  
-- Secure authentication (Supabase) + image uploads  
-- Real-time updates, cart system, responsive UI  
+**Next.js | Redux Toolkit | Supabase | Tailwind**
+- For restaurants, supermarkets, and bakeries  
+- Authentication + image uploads  
+- Real-time content and clean UX  
 
 ---
 
-### 🧬 **Lung Cancer Survival Prediction – Datathon (Machine Learning)**
-**Python | Pandas | Scikit-learn | F1 Score Optimized**
-- ML model predicting patient survival using clinical + lifestyle datasets  
-- Feature engineering, correlations, and model tuning  
-- Built for the **Idealize 2025 Datathon**  
+### 🧬 **Lung Cancer Survival Prediction – ML Datathon**
+**Python | Pandas | Scikit-learn**
+- Predicts patient survival using clinical + lifestyle data  
+- Feature engineering + F1 score optimization  
 
 ---
 
 ### ✋🤖 **Sign Language to Speech Converter (Glove-Based)**
-**Embedded Systems | Sensors | Microcontrollers**
-- Smart sensor-based glove prototype  
-- Converts hand gestures → text → speech  
-- Future-ready for accessibility and education  
+**Embedded Systems | Sensor Integration**
+- Gesture → Text → Speech  
+- Built for accessibility and low-cost hardware  
 
 ---
 
-### 🏆 **FreshPlus – Award Winning Project**
+### 🏆 **FreshPlus – Award Winning Product**
 - Won **two major competitions**  
-- Built a solution improving food distribution & sustainability  
+- Built for sustainability & community impact  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack  
 
-### **Frontend**
-React • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • MUI  
-
-### **Backend**
-Node.js • Express • Java • Spring Boot • Prisma • REST APIs  
-
-### **Databases**
-PostgreSQL • MySQL • Supabase • Firebase • MongoDB  
-
-### **AI & Machine Learning**
-OpenAI API • Pinecone • TensorFlow • Scikit-learn • LangChain • Vector Embeddings  
-
-### **DevOps / Cloud**
-Docker • GitHub Actions • Firebase Hosting • Vercel • Postman  
-
-### **Tools**
-Git • Figma • VS Code • Jira  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavinduperera&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+### **Frontend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavinduperera&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+### **Backend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,prisma" />
+</p>
+
+### **Databases**  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
+</p>
+
+### **AI / ML**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <strong>Pinecone • OpenAI • LangChain</strong>
+</p>
+
+### **DevOps / Cloud**  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,github" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=lavinduperera&show_icons=true&theme=tokyonight&border_radius=12" 
+    height="180" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavinduperera&layout=compact&theme=tokyonight&border_radius=12" 
+    height="180" 
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me  
 <p>
 <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -107,12 +126,12 @@ Git • Figma • VS Code • Jira
 
 ---
 
-## 🤝 Collaboration
-I'm open to collaborating on:
-- AI tools
-- SaaS products
-- Machine learning pipelines
-- Full-stack web applications  
-- Research-focused ML projects  
+## 🤝 Collaboration  
+I’m open to collaborating on:  
+- AI tools  
+- SaaS products  
+- Machine learning pipelines  
+- Full-stack applications  
+- Research / ML projects  
 
 Let’s build something amazing. 🚀
