@@ -91,8 +91,7 @@ Winner of two national competitions. Optimizes perishable food supply chains to 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavinduperera&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavinduperera&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="165" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavinduperera)](https://github.com/lavinduperera/github-readme-stats)
 </p>
 
 <p align="center">
@@ -110,7 +109,7 @@ Open to collaborating on:
 
 **Portfolio:** [lavinduperera.me](https://www.lavinduperera.me/)  
 **LinkedIn:** [Connect with me](https://linkedin.com/in/lavindu-perera)  
-**Email:** lavinduperera@gmail.com
+**Email:** lavi156perera@gmail.com
 
 ---
 
