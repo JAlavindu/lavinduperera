@@ -74,7 +74,9 @@
 ### **AI / ML / Data Science**  
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter" />
-  **Pinecone • OpenAI APIs • LangChain • NumPy/Pandas**
+</p>
+<p>
+  **Key Tools:** Pinecone • OpenAI APIs • LangChain • NumPy/Pandas
 </p>
 
 ### **Databases & Data Storage**  
