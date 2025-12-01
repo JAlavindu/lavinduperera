@@ -1,130 +1,126 @@
-# Hi 👋, I'm Lavindu Perera
+<div align="center">
 
-**Full-Stack SaaS Developer | AI Engineer | Cloud & ML Architect**
+# Hi there, I'm Lavindu Perera 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Specialist;Building+Scalable+Cloud-Native+Apps;Machine+Learning+%7C+SaaS+Innovator" alt="Typing SVG" />
-</p>
+### Full-Stack SaaS Developer | AI Engineer | Cloud & ML Architect
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Specialist;Building+Scalable+Cloud-Native+Apps;Machine+Learning+%7C+SaaS+Innovator" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavindu-perera)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavinduperera@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=About.me&logoColor=white)](https://www.lavinduperera.me/)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-Full-stack developer specializing in **AI-powered SaaS platforms** and scalable cloud architectures. I build production-ready systems that integrate cutting-edge LLMs, vector databases, and real-time data pipelines.
+I am a **Full-stack Developer** specializing in **AI-powered SaaS platforms** and scalable cloud architectures. I bridge the gap between analytical rigor (Mathematics & Physics background) and production-grade software engineering.
 
-**Currently Building:**
-- ⚡ AI-Powered PDF Chat SaaS with RAG architecture
-- 🍽️ SaveFresh Food Marketplace (Next.js + Supabase)
-- 🧬 ML-driven Survival Prediction Models
+- 🔭 **Currently Building:**
 
-**Upskilling In:** Spring Boot, Distributed Systems, AWS/Azure Infrastructure
+  - ⚡ **AI-Powered PDF Chat SaaS** (RAG architecture)
+  - 🍽️ **SaveFresh** (Food Marketplace with Next.js + Supabase)
+  - 🧬 **Survival Prediction Models** (ML-driven)
 
-**Background:** Mathematics, Physics & ICT — bringing analytical rigor to software engineering
-
-**Goal:** High-impact SWE role or founding a scalable tech startup
-
----
-
-## 🔬 Featured Projects
-
-### 🧠 Chat with PDF – AI SaaS Platform
-**Next.js • Pinecone • OpenAI • Stripe • TypeScript**
-
-Production SaaS enabling context-aware document interaction via RAG. Features vector embeddings for semantic search, Stripe subscription management, and scalable architecture handling large document uploads.
-
-### 🍽️ SaveFresh – Food Waste Marketplace
-**Next.js • Redux Toolkit • Supabase • Tailwind**
-
-Full-stack marketplace connecting consumers with discounted leftover food. Real-time data streaming, authentication, and mobile-first design driving community sustainability.
-
-### ✋ Real-Time Sign Language Converter
-**Embedded Systems • Python • Sensor Integration**
-
-Accessibility tool converting glove gestures to text/speech in real-time. Custom sensor integration with computational modeling for reliable, low-latency conversion.
-
-### 🏆 FreshPlus – Award-Winning Supply Chain Optimizer
-
-Winner of two national competitions. Optimizes perishable food supply chains to minimize spoilage and maximize efficiency.
+- 🌱 **Upskilling In:** Spring Boot, Distributed Systems, AWS/Azure Infrastructure
+- 🎯 **Goal:** Securing a high-impact SWE role or founding a scalable tech startup
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+<div align="center">
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+### Languages & Core
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**AI/ML**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
+### Frontend
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### AI & ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+
+### Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+## 🔬 Featured Projects
+
+| Project                        | Description                                                                                                                                                                     | Tech Stack                                          |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------- |
+| **🧠 Chat with PDF**           | **AI SaaS Platform**<br>Production SaaS enabling context-aware document interaction via RAG. Features vector embeddings for semantic search and Stripe subscription management. | `Next.js` `Pinecone` `OpenAI` `Stripe` `TypeScript` |
+| **🍽️ SaveFresh**               | **Food Waste Marketplace**<br>Full-stack marketplace connecting consumers with discounted leftover food. Real-time data streaming and mobile-first design.                      | `Next.js` `Redux` `Supabase` `Tailwind`             |
+| **✋ Sign Language Converter** | **Real-Time Accessibility Tool**<br>Embedded system converting glove gestures to text/speech in real-time using custom sensor integration.                                      | `Python` `Embedded C` `Sensors`                     |
+| **🏆 FreshPlus**               | **Supply Chain Optimizer**<br>Winner of two national competitions. Optimizes perishable food supply chains to minimize spoilage.                                                | `Optimization Algorithms` `Data Analytics`          |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAlavindu&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF)](https://github.com/JAlavindu)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAlavindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8)](https://github.com/JAlavindu)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=JAlavindu&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAlavindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JAlavindu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9)](https://github.com/JAlavindu)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JAlavindu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JAlavindu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true)](https://github.com/JAlavindu)
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAlavindu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Activity Graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JAlavindu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JAlavindu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+### 🤝 Let's Build Together
 
----
+Open to collaborating on **Generative AI**, **Full-Stack SaaS**, and **ML Pipelines**.
 
-## 🤝 Let's Build Together
+[![](https://visitcount.itsvg.in/api?id=JAlavindu&label=Profile%20Views&color=00D9FF&icon=5&pretty=true)](https://github.com/JAlavindu)
 
-Open to collaborating on:
-- **Generative AI** & RAG applications
-- **Full-Stack SaaS** (Next.js/Spring Boot)
-- **ML Pipelines** & research projects
-
-**Portfolio:** [lavinduperera.me](https://www.lavinduperera.me/)  
-**LinkedIn:** [Connect with me](https://linkedin.com/in/lavindu-perera)  
-**Email:** lavinduperera@gmail.com
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JAlavindu&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
-</p>
+</div>
