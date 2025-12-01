@@ -91,7 +91,7 @@ Winner of two national competitions. Optimizes perishable food supply chains to 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavinduperera)](https://github.com/lavinduperera/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api?username=lavinduperera)](https://github.com/lavinduperera/github-readme-stats)
 </p>
 
 <p align="center">
