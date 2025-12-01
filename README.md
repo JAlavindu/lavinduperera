@@ -49,13 +49,6 @@
 
 ---
 
-### 🧬 **Lung Cancer Survival Prediction – ML Datathon**
-**Python | Pandas | Scikit-learn**
-- Predicts patient survival using clinical + lifestyle data  
-- Feature engineering + F1 score optimization  
-
----
-
 ### ✋🤖 **Sign Language to Speech Converter (Glove-Based)**
 **Embedded Systems | Sensor Integration**
 - Gesture → Text → Speech  
