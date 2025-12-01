@@ -90,13 +90,15 @@ Winner of two national competitions. Optimizes perishable food supply chains to 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  (https://github-readme-stats.vercel.app/api?username=lavinduperera)](https://github.com/lavinduperera/github-readme-stats)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAlavindu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAlavindu&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavinduperera&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAlavindu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAlavindu&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" width="98%" />
+</div>
 
 ---
 
@@ -109,10 +111,10 @@ Open to collaborating on:
 
 **Portfolio:** [lavinduperera.me](https://www.lavinduperera.me/)  
 **LinkedIn:** [Connect with me](https://linkedin.com/in/lavindu-perera)  
-**Email:** lavi156perera@gmail.com
+**Email:** lavinduperera@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lavinduperera&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JAlavindu&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
 </p>
