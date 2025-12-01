@@ -41,6 +41,8 @@ I am a **Full-stack Developer** specializing in **AI-powered SaaS platforms** an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-427819?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Frontend
 
@@ -90,16 +92,14 @@ I am a **Full-stack Developer** specializing in **AI-powered SaaS platforms** an
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JAlavindu&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAlavindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/JAlavindu">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAlavindu&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="180" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/JAlavindu">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAlavindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+</a>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JAlavindu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 
